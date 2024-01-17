@@ -24,6 +24,10 @@ quantitatifs et qualitatifs obtenus. La section 4. quant à elle servira de conc
 Dans ce repo vous trouverez un rapport qui explique en détail notre approche ainsi que notre code. 
 Il y a également un état de l'art sur la segmentation flou (jusqu'en décembre 2022). 
 
+## Aperçu du résultat : 
+
+![image](https://github.com/Calliope-commits/Imagerie-medicale-Segmentation-floue-avec-l-algorithme-Fuzzy-C-Mean/assets/61286710/67c49ee0-254c-4c94-971c-350249e84f1a)
+
 
 ## Auteur 
 
