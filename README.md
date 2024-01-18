@@ -15,7 +15,7 @@ Dans ce projet, le but était d’étudier l’utilité et l'efficacité d’un 
 C-Means pour la segmentation d’images biomédicales. Pour ce faire, nous avons implémenté
 l’approche proposée par [1]. Dans cet article, les auteurs proposent un algorithme qu’ils ont
 nommé FRFCM (Fast and Robust Fuzzy C-Means).
-Le reste de ce rapport est divisé comme suit: la section 2. aura pour but d’expliquer en détails
+Le rapport est divisé comme suit: la section 2. aura pour but d’expliquer en détails
 les points importants de l’algorithme FRFCM. Dans la section 3. nous verrons les résultats
 quantitatifs et qualitatifs obtenus. La section 4. quant à elle servira de conclusion.
 
